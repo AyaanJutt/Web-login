@@ -1,0 +1,51 @@
+html{
+    
+   
+    background-image: url("images/background.jpg" );
+    background-size:cover
+
+}
+
+body{
+    
+    width:600px;
+    background-color:rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    border:solid;
+    border-color:purple; 
+    font-family: 'Montserrat', sans-serif;
+    margin:0 auto;
+}
+
+button{
+    background-color:green;
+    color:white;
+    font-size: 20px;
+    margin: 5px;
+   
+}
+.login-box{
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:45px;
+}
+
+a{
+    color: white;
+    text-decoration: none
+}
+a:hover{
+    color:yellow;
+}
+
+.social-media{
+    padding:5px
+}
+
+p{
+    text-align:center;
+}
+img{
+    padding:5px
+}
